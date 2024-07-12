@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpinnerTalltail
 - 👀 I’m interested in programming, music composition, belly dance, and role-playing games.
-- 🌱 I will obtain my BS in Computer Science with a specialization in web development by 7/7/2024.
+- 🌱 I've graduated with my BS in Computer Science as of 7/7/2024 and have a specialization in web development.
 - 💞️ I’m looking to collaborate on ... nothing just yet!
 - 📫 How to reach me ... (will complete later)
 
