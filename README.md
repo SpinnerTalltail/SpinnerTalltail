@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SpinnerTalltail
 - 👀 I’m interested in programming, music composition, belly dance, and role-playing games.
-- 🌱 I've graduated with my BS in Computer Science as of 7/7/2024 and have a specialization in web development.
-- 💞️ I’m looking to collaborate on ... nothing just yet!
-- 📫 How to reach me ... (will complete later)
+- 🌱 I graduated with my BS in Computer Science as of 7/7/2024 with a specialization in web development.
+- 💞️ I’m looking to collaborate on projects to help me grow (HTML5, CSS3, JavaScript, Python or Java, PHP, MySQL, Minecraft..)
+- 📫 How to reach me ... www.linkedin.com/in/jessica-j-74b872b1
+
+- Project list forthcoming...
 
 <!---
 SpinnerTalltail/SpinnerTalltail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
