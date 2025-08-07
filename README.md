@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects to help me grow (HTML5, CSS3, JavaScript, Python or Java, PHP, MySQL, Minecraft..)
 - 📫 How to reach me ... www.linkedin.com/in/jessica-j-74b872b1
 
-- Project list forthcoming...
+- Project list can be found here: https://spinnertalltail.github.io/
 
 <!---
 SpinnerTalltail/SpinnerTalltail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
